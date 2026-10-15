@@ -4,6 +4,6 @@ Built site only. Source remains in the owner's private repository.
 
 https://didi6135.github.io/office-time-preview/
 
-Synthetic rooms and availability; no login, real reservations or payments.
+Full site with demo customer/admin login and 26 synthetic rooms. No real authentication, reservations, payments or emails.
 
-Source revision: 5ebfc47ed56778c4737cf951ccf1382a8fbf00c9
+Source revision: a833fae4b56d55b0ccf8782df61dfb2d1b2906e8
