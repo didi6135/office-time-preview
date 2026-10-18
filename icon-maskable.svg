@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="hsl(158 39% 34%)"/>
-  <g transform="translate(128 128) scale(5.3333)">
-    <path d="M8 13C8 10.79 9.79 9 12 9h10.5c2.21 0 4 1.79 4 4v22c0 2.21-1.79 4-4 4H12c-2.21 0-4-1.79-4-4V13z" fill="#FFFFFF" opacity="0.96"/>
-    <path d="M25.5 13c0-2.21 1.79-4 4-4H40c2.21 0 4 1.79 4 4v22c0 2.21-1.79 4-4 4H29.5c-2.21 0-4-1.79-4-4V13z" fill="hsl(18 87% 67%)"/>
-    <circle cx="24" cy="24" r="3.4" fill="#FFFFFF" opacity="0.95"/>
-    <circle cx="24" cy="24" r="1.4" fill="hsl(158 39% 34%)"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <title>LOBi</title>
+  <defs>
+    <linearGradient id="lobi-mark" x1="141" y1="146" x2="371" y2="371" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14D4DE"/>
+      <stop offset=".5" stop-color="#6488EA"/>
+      <stop offset="1" stop-color="#A45DE8"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#060D1D"/>
+  <path d="m161 366-20-25V201a55 55 0 0 1 55-55h120a55 55 0 0 1 55 55v125a40 40 0 0 1-40 40h-35l-35-35" stroke="url(#lobi-mark)" stroke-width="40" stroke-linejoin="round"/>
 </svg>

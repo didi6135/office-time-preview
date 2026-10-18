@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="192" viewBox="0 0 192 64" fill="none">
+  <title>LOBi</title>
+  <defs>
+    <linearGradient id="lobi-wordmark" x1="55" y1="17" x2="103" y2="59" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14D4DE"/>
+      <stop offset=".5" stop-color="#6488EA"/>
+      <stop offset="1" stop-color="#A45DE8"/>
+    </linearGradient>
+    <linearGradient id="lobi-dot" x1="176" y1="1" x2="184" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14D4DE"/>
+      <stop offset=".5" stop-color="#6488EA"/>
+      <stop offset="1" stop-color="#A45DE8"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#FFFFFF" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 17v29c0 7 3 10 10 10h24"/>
+    <path d="M121 17h25c7 0 11 4 11 10s-4 10-11 10h-12m12 0c8 0 12 3 12 9s-4 10-12 10h-25V17"/>
+    <path d="M180 20v36"/>
+  </g>
+  <path d="m62 57-4-5V28a11 11 0 0 1 11-11h23a11 11 0 0 1 11 11v20a8 8 0 0 1-8 8h-7l-7-7" stroke="url(#lobi-wordmark)" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="180" cy="6" r="5" fill="url(#lobi-dot)"/>
+</svg>
